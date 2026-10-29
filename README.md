@@ -1,4 +1,4 @@
-#Présentation de l'exercice 
+# Présentation de l'exercice 
 
 Cet exercice consiste à utiliser Readline pour demander à l'utilisateur d'entrer un nombre puis avoir l'affichage
 
